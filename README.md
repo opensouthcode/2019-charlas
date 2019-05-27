@@ -19,6 +19,7 @@
  - [Creando aplicaciones multi-tenant](https://es.slideshare.net/NachoFanjulCorteguer/creando-aplicaciones-multitenant-opensouthcode-2019) por [Nacho Fanjul](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/217)
  - [Déjame que te hable de Perl 6](https://jj.github.io/hablando-p6/#/) por [JJ Merelo](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/172)
  - [El truco era el Software Libre](https://iesgn.github.io/opensouthcode2019/#/) por [Alberto Molina Coballes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178) y [José Domingo Muñoz Rodríguez](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178)
+ - [Hurd SMP](https://docs.google.com/presentation/d/1ZUkbgPljdsLg04dxxXux1H1TErPfKv46WAEmvCzod3Q/edit?usp=sharing) por [Almudena García](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/194) [Github de Almudena García](https://github.com/AlmuHS)
  - [Software Libre como catalizador hacia la agilidad a escala](https://www.slideshare.net/toscalix/embracing-floss-asashortcuttowardsagility) por [Agustín Benito Bethencourt](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/196)
  - [Transforma tu Monolito con HMVC](https://www.slideshare.net/ortussolutions/transforma-tu-monolito-con-hmvc) por [Luis Majano](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/247)
 
@@ -32,3 +33,4 @@
  - [Déjame que te hable de Perl 6](https://jj.github.io/hablando-p6/#/) por [JJ Merelo](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/172)
  - [Software Libre como catalizador hacia la agilidad a escala](https://www.slideshare.net/toscalix/embracing-floss-asashortcuttowardsagility) por [Agustín Benito Bethencourt](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/196)
  - [El truco era el Software Libre](https://iesgn.github.io/opensouthcode2019/#/) por [Alberto Molina Coballes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178) y [José Domingo Muñoz Rodríguez](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178)
+ - [Hurd SMP](https://docs.google.com/presentation/d/1ZUkbgPljdsLg04dxxXux1H1TErPfKv46WAEmvCzod3Q/edit?usp=sharing) por [Almudena García](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/194) [Github de Almudena García](https://github.com/AlmuHS)
