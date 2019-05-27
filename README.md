@@ -30,4 +30,4 @@
 #### Sábado 25 de Mayo
  - [Déjame que te hable de Perl 6](https://jj.github.io/hablando-p6/#/) por [JJ Merelo](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/172)
  - [Software Libre como catalizador hacia la agilidad a escala](https://www.slideshare.net/toscalix/embracing-floss-asashortcuttowardsagility) por [Agustín Benito Bethencourt](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/196)
- - [El truco era el Softwarw Libre](https://iesgn.github.io/opensouthcode2019/#/) por [Alberto Molina Coballes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178) y [José Domingo Muñoz Rodríguez](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178)
+ - [El truco era el Software Libre](https://iesgn.github.io/opensouthcode2019/#/) por [Alberto Molina Coballes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178) y [José Domingo Muñoz Rodríguez](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178)
