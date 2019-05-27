@@ -30,4 +30,4 @@
 #### Sábado 25 de Mayo
  - [Déjame que te hable de Perl 6](https://jj.github.io/hablando-p6/#/) por [JJ Merelo](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/172)
  - [Software Libre como catalizador hacia la agilidad a escala](https://www.slideshare.net/toscalix/embracing-floss-asashortcuttowardsagility) por [Agustín Benito Bethencourt](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/196)
-- [Hurd SMP](https://docs.google.com/presentation/d/1ZUkbgPljdsLg04dxxXux1H1TErPfKv46WAEmvCzod3Q/edit?usp=sharing)
+- [Hurd SMP](https://docs.google.com/presentation/d/1ZUkbgPljdsLg04dxxXux1H1TErPfKv46WAEmvCzod3Q/edit?usp=sharing) por [Almudena Garcia](https://github.com/AlmuHS)
