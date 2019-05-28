@@ -22,12 +22,14 @@
  - [El truco era el Software Libre](https://iesgn.github.io/opensouthcode2019/#/) por [Alberto Molina Coballes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178) y [José Domingo Muñoz Rodríguez](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178)
  - [Hurd SMP](https://docs.google.com/presentation/d/1ZUkbgPljdsLg04dxxXux1H1TErPfKv46WAEmvCzod3Q/edit?usp=sharing) por [Almudena García](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/194) [Github de Almudena García](https://github.com/AlmuHS)
  - [Software Libre como catalizador hacia la agilidad a escala](https://www.slideshare.net/toscalix/embracing-floss-asashortcuttowardsagility) por [Agustín Benito Bethencourt](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/196)
+ - [Strimzi - Where Kafka meets OpenShift](./presentaciones/Strimzi-Where-Kafka-meets-OpenShift.pdf) por [Roman Martin](https://www.opensouthcode.org/users/903)
  - [Transforma tu Monolito con HMVC](https://www.slideshare.net/ortussolutions/transforma-tu-monolito-con-hmvc) por [Luis Majano](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/247)
 
 ### Por día:
 
 #### Viernes 24 de Mayo
  - [Creando aplicaciones multi-tenant](https://es.slideshare.net/NachoFanjulCorteguer/creando-aplicaciones-multitenant-opensouthcode-2019) por [Nacho Fanjul](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/217)
+ - [Strimzi - Where Kafka meets OpenShift](./presentaciones/Strimzi-Where-Kafka-meets-OpenShift.pdf) por [Roman Martin](https://www.opensouthcode.org/users/903)
  - [Transforma tu Monolito con HMVC](https://www.slideshare.net/ortussolutions/transforma-tu-monolito-con-hmvc) por [Luis Majano](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/247)
 
 #### Sábado 25 de Mayo
