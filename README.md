@@ -25,6 +25,7 @@
  - [Krita y los procesos creativos](./presentaciones/Krita.pdf) por [Ramón Miranda](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/245)
  - [Measuring Software development with GrimoireLab](./presentaciones/Measuring-software-development-with-GrimoireLab.pdf) por [Miguel Angel Fernandez y Valerio Cosentino](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/211)
  - [microVM Containers: Lo mejor de ambos mundos](https://disasterproject.com/docs/pres/index2019.html#/presentacion) por [Alejandro Escanero](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/200)
+  - [Programación de videojuegos 2D con Phaser](https://docs.google.com/presentation/d/11Rl4LNSIrBvQeATAl7JDhqqF0Lt1fHe9ENliWUHpDPI/) por [Sergio Banderas Moreno](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/224)
  - [Ruby on Rails una visión general](./presentaciones/Ruby-On-Rails.pdf) por [Esteban Rivas](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/251)
  - [Software Libre como catalizador hacia la agilidad a escala](https://www.slideshare.net/toscalix/embracing-floss-asashortcuttowardsagility) por [Agustín Benito Bethencourt](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/196)
  - [Strimzi - Where Kafka meets OpenShift](./presentaciones/Strimzi-Where-Kafka-meets-OpenShift.pdf) por [Roman Martin](https://www.opensouthcode.org/users/903)
@@ -36,6 +37,7 @@
  - [Creando aplicaciones multi-tenant](https://es.slideshare.net/NachoFanjulCorteguer/creando-aplicaciones-multitenant-opensouthcode-2019) por [Nacho Fanjul](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/217)
  - [Strimzi - Where Kafka meets OpenShift](./presentaciones/Strimzi-Where-Kafka-meets-OpenShift.pdf) por [Roman Martin](https://www.opensouthcode.org/users/903)
  - [Transforma tu Monolito con HMVC](https://www.slideshare.net/ortussolutions/transforma-tu-monolito-con-hmvc) por [Luis Majano](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/247)
+  - [Programación de videojuegos 2D con Phaser](https://docs.google.com/presentation/d/11Rl4LNSIrBvQeATAl7JDhqqF0Lt1fHe9ENliWUHpDPI/) por [Sergio Banderas Moreno](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/224)
  - [Measuring Software development with GrimoireLab](./presentaciones/Measuring-software-development-with-GrimoireLab.pdf) por [Miguel Angel Fernandez y Valerio Cosentino](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/211)
 
 #### Sábado 25 de Mayo
