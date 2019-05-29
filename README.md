@@ -22,6 +22,7 @@
  - [El truco era el Software Libre](https://iesgn.github.io/opensouthcode2019/#/) por [Alberto Molina Coballes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178) y [José Domingo Muñoz Rodríguez](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178)
  - [Hurd SMP](https://docs.google.com/presentation/d/1ZUkbgPljdsLg04dxxXux1H1TErPfKv46WAEmvCzod3Q/edit?usp=sharing) por [Almudena García](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/194) [Github de Almudena García](https://github.com/AlmuHS)
  - [Krita y los procesos creativos](./presentaciones/Krita.pdf) por [Ramón Miranda](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/245)
+ - [Measuring Software development with GrimoireLab](./presentaciones/Measuring-software-development-with-GrimoireLab.pdf) por [Miguel Angel Fernandez y Valerio Cosentino](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/211)
  - [microVM Containers: Lo mejor de ambos mundos](https://disasterproject.com/docs/pres/index2019.html#/presentacion) por [Alejandro Escanero](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/200)
  - [Ruby on Rails una visión general](./presentaciones/Ruby-On-Rails.pdf) por [Esteban Rivas](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/251)
  - [Software Libre como catalizador hacia la agilidad a escala](https://www.slideshare.net/toscalix/embracing-floss-asashortcuttowardsagility) por [Agustín Benito Bethencourt](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/196)
@@ -34,6 +35,7 @@
  - [Creando aplicaciones multi-tenant](https://es.slideshare.net/NachoFanjulCorteguer/creando-aplicaciones-multitenant-opensouthcode-2019) por [Nacho Fanjul](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/217)
  - [Strimzi - Where Kafka meets OpenShift](./presentaciones/Strimzi-Where-Kafka-meets-OpenShift.pdf) por [Roman Martin](https://www.opensouthcode.org/users/903)
  - [Transforma tu Monolito con HMVC](https://www.slideshare.net/ortussolutions/transforma-tu-monolito-con-hmvc) por [Luis Majano](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/247)
+ - [Measuring Software development with GrimoireLab](./presentaciones/Measuring-software-development-with-GrimoireLab.pdf) por [Miguel Angel Fernandez y Valerio Cosentino](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/211)
 
 #### Sábado 25 de Mayo
  - [microVM Containers: Lo mejor de ambos mundos](https://disasterproject.com/docs/pres/index2019.html#/presentacion) por [Alejandro Escanero](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/200)
