@@ -39,6 +39,7 @@
  - [Transforma tu Monolito con HMVC](https://www.slideshare.net/ortussolutions/transforma-tu-monolito-con-hmvc) por [Luis Majano](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/247)
   - [Programación de videojuegos 2D con Phaser](https://docs.google.com/presentation/d/11Rl4LNSIrBvQeATAl7JDhqqF0Lt1fHe9ENliWUHpDPI/) por [Sergio Banderas Moreno](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/224)
  - [Measuring Software development with GrimoireLab](./presentaciones/Measuring-software-development-with-GrimoireLab.pdf) por [Miguel Angel Fernandez y Valerio Cosentino](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/211)
+ - [Seguridad en tus React Apps con Auth0.](https://docs.google.com/presentation/d/1nVnb21vRUmmY-Dgz9PXwkBNYEgy9wtdJaF6B6q_B9zY/edit?usp=sharing) por [Daily Miranda Pardo](https://www.linkedin.com/in/daily-miranda-pardo/)
 
 #### Sábado 25 de Mayo
  - [microVM Containers: Lo mejor de ambos mundos](https://disasterproject.com/docs/pres/index2019.html#/presentacion) por [Alejandro Escanero](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/200)
