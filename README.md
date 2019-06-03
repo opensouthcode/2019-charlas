@@ -36,6 +36,7 @@
  - [Trabajando con Genesis Hooks](https://wordpress.tv/2019/05/27/luis-colome-trabajando-con-genesis-hooks-opensouthcode-2019/) por [Luis Colomé](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/214)
  - [Transforma tu Monolito con HMVC](https://www.slideshare.net/ortussolutions/transforma-tu-monolito-con-hmvc) por [Luis Majano](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/247)
 -  [WP-CLI - Automatiza tus tareas y tómate un café](https://fcjurado.com/wp-cli) por [Francisco Calderón Jurado](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/213)
+- [The foundation of Functional Programming](https://iot.rindus.de/~dawid/OpenSouthCode19/#/) por FurmanS
 
 ### Por día:
 
@@ -62,3 +63,4 @@
  - [Chatbots, Machine Learning y Microservicios. ALL IN](./presentaciones/bot_ml_microservicios_all_in.pdf9 por [Rafael Hidalgo Calero y José María Palma](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/237)
  - [Drupal & GatsbyJS](https://gatsbydrupal.osc.web1.soulweb.it) por [Giuseppe Ianni](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/226) y [Marco Martino](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/226)
  - [Gestionando aplicaciones con operadores](./presentaciones/Managing-applications-with-operators.pdf) por [Rubén Romero Montes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/197)
+- [The foundation of Functional Programming](https://iot.rindus.de/~dawid/OpenSouthCode19/#/) por FurmanS
