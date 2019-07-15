@@ -25,6 +25,7 @@
  - [El truco era el Software Libre](https://iesgn.github.io/opensouthcode2019/#/) por [Alberto Molina Coballes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178) y [José Domingo Muñoz Rodríguez](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/178)
  - [Gestionando aplicaciones con operadores](./presentaciones/Managing-applications-with-operators.pdf) por [Rubén Romero Montes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/197)
  - [Hurd SMP](https://docs.google.com/presentation/d/1ZUkbgPljdsLg04dxxXux1H1TErPfKv46WAEmvCzod3Q/edit?usp=sharing) por [Almudena García](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/194) [Github de Almudena García](https://github.com/AlmuHS)
+ - [IaC: Gestiona tu infrastructura como código con Terraform](https://mendrugory.github.io/opensouthcode2019/) por [Gonzalo Gabriel Jiménez Fuentes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/189)
  - [Krita y los procesos creativos](./presentaciones/Krita.pdf) por [Ramón Miranda](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/245)
  - [Measuring Software development with GrimoireLab](./presentaciones/Measuring-software-development-with-GrimoireLab.pdf) por [Miguel Angel Fernandez y Valerio Cosentino](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/211)
  - [microVM Containers: Lo mejor de ambos mundos](https://disasterproject.com/docs/pres/index2019.html#/presentacion) por [Alejandro Escanero](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/200)
@@ -40,6 +41,7 @@
 ### Por día:
 
 #### Viernes 24 de Mayo
+ - [IaC: Gestiona tu infrastructura como código con Terraform](https://mendrugory.github.io/opensouthcode2019/) por [Gonzalo Gabriel Jiménez Fuentes](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/189)
  - [Creando aplicaciones multi-tenant](https://es.slideshare.net/NachoFanjulCorteguer/creando-aplicaciones-multitenant-opensouthcode-2019) por [Nacho Fanjul](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/217)
  - [Strimzi - Where Kafka meets OpenShift](./presentaciones/Strimzi-Where-Kafka-meets-OpenShift.pdf) por [Roman Martin](https://www.opensouthcode.org/users/903)
   - [Seguridad en tus React Apps con Auth0.](https://docs.google.com/presentation/d/1nVnb21vRUmmY-Dgz9PXwkBNYEgy9wtdJaF6B6q_B9zY/edit?usp=sharing) por [Daily Miranda Pardo](https://www.linkedin.com/in/daily-miranda-pardo/)
